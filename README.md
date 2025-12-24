@@ -1,3 +1,14 @@
+# 🌍 IP Address Finder – React Application
+
+- A React-based web application that detects and displays detailed IP address information
+- Shows both **network details** and **geographical location** on an interactive map
+- Built using modern React and mapping libraries
+
+
+🌐 **Live Demo:**  👉 [Add to cart App](https://add-to-cart-rouge-psi.vercel.app/) 
+
+
+
 ## 🙋‍♀️ Author
 
 Manaswini Sasmal
