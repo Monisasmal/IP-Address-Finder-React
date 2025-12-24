@@ -4,8 +4,11 @@
 - Shows both **network details** and **geographical location** on an interactive map
 - Built using modern React and mapping libraries
 
+---
 
 🌐 **Live Demo:**  👉 [Map my IP](https://ip-address-finder-react.vercel.app/) 
+
+---
 
 ## 🛠️ Tech Stack
 - **Frontend:** React 19
@@ -14,11 +17,16 @@
 - **Linting:** ESLint
 - **Styling:** CSS (custom UI cards)
 
+---
+
 ## 🚀 Core Features
 - Fetches **public IP address details** using an IP geolocation API
 - Displays real-time location data in a structured UI
 - Renders an **interactive map** showing the detected location
 - Clean, readable card-based UI for better user experience
+
+
+---
 
 
 ## 📍 IP Information Displayed
@@ -34,12 +42,20 @@
 - **Country Calling Code**
 - **Currency**
 
+---
+
 ## 🗺️ Map Integration
 - Leaflet map dynamically centers based on latitude and longitude
 - React-Leaflet used to bind map behavior with React state
 - Marker indicates the exact detected IP location
 - Zoom level optimized for city-level visibility
 
+---
+
+## Preview
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/75a75867-586d-4880-bdd7-aab26477de24" />
+
+---
 
 
 ## 🙋‍♀️ Author
